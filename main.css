@@ -1,0 +1,37 @@
+body {
+  background-color: #253c59;
+  color: #bf8d30;
+  font-family: "Bebas Neue", cursive;
+  text-align: center;
+  word-spacing: 10px;
+  font-weight: normal;
+  padding-top: 150px;
+}
+
+h1 {
+  color: #d9b70d;
+  letter-spacing: 5px;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+p {
+  font-size: x-large;
+}
+
+button {
+  width: 150px;
+  background-color: #d9b70d;
+  color: #253c59;
+  border-radius: 100px;
+  height: 35px;
+  font-weight: bold;
+  margin-bottom: 4px;
+  margin-top: 4px;
+}
+
+button:hover {
+  background-color: whitesmoke;
+}
